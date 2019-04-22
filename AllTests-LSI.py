@@ -122,8 +122,8 @@ print coherenceResult
 # server.ehlo()
 # server.starttls()
 # server.ehlo()
-# server.login('Roxana.attar@gmail.com','password')
-# server.sendmail('roxana.attar@gmail.com','Roxana.attar@gmail.com',msg)
+# server.login('example@gmail.com','password')
+# server.sendmail('example@gmail.com','example@gmail.com',msg)
 # server.close()
 
 
